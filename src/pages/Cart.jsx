@@ -19,7 +19,7 @@ const Cart = () => {
           <Row>
             <Col lg='12'>
               {cartItems.length === 0 ? (
-                <h5 className='text-center'>Tu carro esta vacío</h5>
+                <h5 className='text-center classtext'>Tu carro esta vacío</h5>
               ) : (
                 <table className='table table-bordered'>
                   <thead>
