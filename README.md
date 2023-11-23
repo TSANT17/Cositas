@@ -13,7 +13,7 @@ npm i
 npm start
 
 ```
-https://655fd80fef3d104a0ac3b299--majestic-cendol-30763c.netlify.app/home
+https://655fd80fef3d104a0ac3b299--majestic-cendol-30763c.netlify.app
 
 
 
